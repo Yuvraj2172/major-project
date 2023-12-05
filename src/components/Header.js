@@ -53,7 +53,7 @@ export class Header extends Component {
               style={{ fontFamily: "NHaasGroteskDSPro-65Md" }}
               href="/"
             >
-              Crypto Dashboard
+              Shark Tank India Analsis.
             </a>
           </div>
         </nav>
